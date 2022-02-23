@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Further account of New Jersey in an abstract of letters lately writ from thence / by several inhabitants there resident.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42986</idno>
+            <idno type="STC">Wing H1007</idno>
+            <idno type="STC">ESTC R15092</idno>
+            <idno type="EEBO-CITATION">13144503</idno>
+            <idno type="OCLC">ocm 13144503</idno>
+            <idno type="VID">98033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42986)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 420:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Further account of New Jersey in an abstract of letters lately writ from thence / by several inhabitants there resident.</title>
+               </titleStmt>
+               <extent>[5], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letters from Quakers in East and West Jersey.</note>
+                  <note>The letters are by Richard Hartshorne, Martha S., Robert Wade, Ester Huckens, and Roger Pederick.</note>
+                  <note>For complete contents of this edition see: NUC pre-1956 imprints.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  New Jersey --  History.</term>
+               <term>New Jersey --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98033:1" rendition="simple:additions"/>
+            <pb facs="tcp:98033:1"/>
+            <p>A FURTHER ACCOUNT OF New JERSEY, In an Abſtract of LETTERS Lately Writ from thence, By ſeveral Inhabitants there Reſident.</p>
+            <p>Printed in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:98033:2"/>
+            <pb n="1" facs="tcp:98033:2"/>
+            <head>A further Account of <hi>New Jerſey,</hi> in an Abſtract of Letters lately writ from thence, by ſeveral Inhabitants there reſident.</head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>MY Love is to thee, and thy Wife, deſiring your wellfare, both inward and outward; and that we may be found ſteadfaſt in that truth which is ſaving, for the wellfare of our immor<g ref="char:EOLhyphen"/>tall Souls; And dear Friend, the deſire of my Soul is, that we may know true Love; and I ſhould be glad to ſee thee and thy Wife; I have partly a rememberance of thy Wife; And I have thought on thee many times with tears in my eyes, and the Lord hath done wonderous works for me; unto him I return thanks &amp; praiſes, who is God over all Bleſſed for ever.</p>
+            <p>Now Friend, I ſhall give thee ſomthing of an infor<g ref="char:EOLhyphen"/>mation concerning <hi>New Jerſie,</hi> but time will not permit me to write at length. Thou deſireſt to know how I live, through the goodneſs of the Lord I live very well, keeping between 30 and 40 head of Cows, and 7 or 8 Horſes or Mares to Ride upon, <hi>&amp;c.</hi> There are 7 Towns ſettled in this Province, <hi>(viz.) Shrewſbury</hi> and <hi>Midletown,</hi> upon the Sea ſide, and along the River ſide and up the Creeks there is <hi>Piſcattaway,</hi> &amp; <hi>Woodbridge, Elizobetown, New wake, and Bergane;</hi> moſt of theſe Towns having about 100 Famileis; and the leaſt 40. The Country is very healthful, <hi>&amp;c.</hi> In <hi>Middletown,</hi>
+               <pb n="2" facs="tcp:98033:3"/>where I live, in 6 years and upwards there have dyed but one Woman about 80 years old, one Man about 60, a Boy about five years old, and one little Infant or 2: there are in this Town, in twenty five Families a<g ref="char:EOLhyphen"/>bout 95 children moſt of them under 12 years of age, and all luſty children. The produce of this Province, is chiefly Wheat, Barly, Oates, Beans, Beef, Pork, Peaſe, To<g ref="char:EOLhyphen"/>bacco, <hi>Indian</hi> Corn, Butter, Cheeſe, Hemp, &amp; flax, French-beans, Strawberries, Carrots, Parſnips, Cabbidge, Turnips Radiſhes, Onions, Cucumbers, Water-mellons, Musk<g ref="char:EOLhyphen"/>mellons, Squaſhes; alſo our ſoil is very fertile for Apples, Pears, Plums, Quinces, Currans red and white, Gooſeberries, Cherries, and Peaches in abundance, having all ſorts of green traſh in the Summer time, &amp; the Country is greatly ſupplied with Creeks &amp; Rivers which afford ſtore of Fiſh, Pearch, Roach, Baſte, Sheeps-head, Oyſters, Clams, Crabs, Sturgeon, Eels, and many other ſorts of Fiſh that I do not name;. you may Buy as much Fiſh of an <hi>Indian</hi> for half a pound of Powder, as will ſerve 6 or 8 men; Deer are alſo very plenty in this Province; we can buy a fat Buck of the <hi>Indians</hi> much bigger than the <hi>Engliſh</hi> Deer for a pound and half of Powder, or Lead, or any other trade equivalent, and a peck of Strawberries, the <hi>Indians</hi> will gather, and bring Home to us for the value of 6 <hi>d.</hi> and our Beef and Pork is very fat and good; the natural Graſs of the Country is much like that which grows in the Woods in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which is food enough for our Cattle; but by the water ſide we have freſh meadows &amp; ſalt Marſhes; we make good <hi>Engliſh</hi> Bread and Beer; beſides we have ſeverall other ſorts of Drink; and travelling in the Country, and coming to any Houſe, they generally ask
+<pb n="3" facs="tcp:98033:3"/>you to eat &amp; drink, and take Tobacco, and their ſeveral ſorts of drink they will offer you as confidently as if it were Sack. Here are abundance of Cheſnuts, Walnuts, Mulberries, and Grapes, red and white, our Horſes and Mares run in the Woods, and we give them no meat Winter nor Summer, unleſs we work them; but our Cows muſt be looked after; our Timber ſtands for fences about the Land we manure; we plough our Land with Oxen for the moſt part; a Husband-man here and in old <hi>England</hi> is all one, making moſt of our utencils for Husbandry our ſelves, and a man that has 3 or 4 Sons or Servants that can work along with him, will down with Timber amain, and get Corn quickly. The beſt coming to this Country, is at the Spring or Fall, we make our Soap &amp; Candles, &amp; all ſuch things our ſelves; in the Winter we make good fires, and eat good meat; and our Women &amp; Children are healthy; Sugar is cheap; Veniſon, Geeſe, Turkies, Pidgeons, Fowle, &amp; Fiſh plenty; and one great happineſs we enjoy, which is, we are very quiet. I could give thee more information concerning this Country, but time will not give leave, In ſhort, this is a rare place for any poor man, or others; and I am ſatisfied people may live better here then they do in Old <hi>England,</hi> and eat more good meat <hi>&amp;c.</hi> The Veſſel is going away, I have not time to coppy this over; therefore take the ſenſe of it, my Love ſalutes thee, farewel,</p>
+            <closer>
+               <signed>Richard Hartshorne.</signed> 
+               <dateline>New Jerſie, Midleton <date>12, of the 9th. Month 1675.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:98033:4"/>
+            <head>For my Dear Bro. <hi>Richard Craven</hi> in <hi>Lime-houſe.</hi>
+            </head>
+            <opener>
+               <salute>Dear Bro. and Siſter,</salute>
+            </opener>
+            <p>I And my Husband do dearly ſalute you, hoping in the Lord you are all in good health, as we are all at this time, praiſes do I return unto the Lord for the largeneſs of his love unto me, the which I have great cauſe never to forget. I having this opportunity, took it, to let you hear from us: And dear Siſter, it would be the joy of my heart to ſee thee, and thy Husband, and children here; and dear Siſter, I have more comfort in one day here, then I had in many dayes in <hi>England,</hi> which is great joy to my ſoul, and do deſire if the Lord be plea'sd we may end our days toge<g ref="char:EOLhyphen"/>ther; and you may believe me, it is a brave Country, and we have Cows, Swine, and Hens, and are like to have Sheep ſhortly; and we are going to ſet up a good Houſe, for we have not
+<pb n="5" facs="tcp:98033:4"/>a very good one at preſent, and we would take up ſome Land for you if we were ſure you would come, &amp; if the Country be unto you as it is unto us, if you lived better then you do, you would not repent your coming hither; but be ſure you come with an honeſt Shipmaſter, and bring ſome comfortable things in the Ship with you to take by the way; but I have found no want ſince I came out of the Ship: And ſo my dear Siſter and Brother, I long to ſee your faces if you be free to come.</p>
+            <closer>
+               <signed>Thy Dear Siſter, <hi>Martha S.</hi>
+               </signed>
+               <dateline>New Jerſey <date>the 22. of 9th. Month, 1675.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:98033:5" rendition="simple:additions"/>
+            <opener>
+               <salute>Dear and Loving Wife,</salute>
+            </opener>
+            <p>HAving now an opportunity to let thee underſtand of my welfare through the great mercy of God, <hi>&amp;c.</hi> and as to the other place it is as good a health<g ref="char:EOLhyphen"/>full place as men can deſire to live in, and here is plenty enough of all proviſions, and good <hi>Engliſh</hi> Wheat and Mault, plenty of Fiſh and Fowl; Indeed here is no want of any thing, but honeſt people to Inhabit it; there is Land enough purchaſed of the <hi>Indians</hi> for ten times ſo many as we were, and theſe <hi>Indians</hi> here are very quiet and Peaceable <hi>Indians;</hi> In <hi>New England</hi> they are at Wars with the <hi>Indians,</hi> and the news is, they have cut off a great many of them; but in this place, the Lord is making way to exalt his name and truth; for it is ſaid by thoſe that live here abouts, that within theſe few years, here were five <hi>Indians</hi> for one now, and theſe that be are very willing to ſell their land to the <hi>Engliſh;</hi> and had <hi>John Fenwick</hi> done wiſely, we had not been diſperſt, but I hope it may all work for the beſt; And dear Wife, I hope thou wilt be well ſatis<g ref="char:EOLhyphen"/>fied to come and live here, where we may live very quietly and Peaceably, where we ſhall have no vexati<g ref="char:EOLhyphen"/>on, nor tearing nor rending what we have from us; I have bought a Plantation by the advice and conſent of ſome Friends, upon which there is a very good houſe, a great deal of Out-houſing, Orchards, and Gardens ready planted, and well fenced; I do intend (if God permit) after the Harveſt is gotten in, to come to <hi>England</hi> for thee, and I hope thou wilt be willing to come, ſeeing here <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <add>will be</add> ſeverall of thy Neighbours whom thou knoweſt well, as <hi>Richard Guy</hi> and his
+<pb n="7" facs="tcp:98033:5"/>Wife, and <hi>William Hancock</hi> and his Wife, and many o<g ref="char:EOLhyphen"/>thers; and here is an honeſt Friend with me, that would have a fourth part of the Land, <hi>&amp;c.</hi> And ſo hoping theſe lines may find thee in good health, as through the great mercy and goodneſs of God, I have never been better in health.</p>
+            <p>My love to <hi>Richard Green,</hi> he deſired me to ſend him ſome account of the Country, which to the beſt of my knowledge I will do; as to Building here is little until more People come over, for the Inhabitants that were here did generally Build their own houſes, though after a mean manner, for they fell down Trees, and ſplit them in parts, and ſo make up a ſorry Houſe, <hi>&amp;c.</hi> But here is Earth enough that will make very good Brick, and Stone enough of ſeverall ſorts, as four that will ſtrike fire, which may make Milſtones, or what a man will put them to; they make their Lime of Oyſter-ſhells; here is good Land, and a Healthful and Plentiful Country, here is no Tanner in all the River, but ſome Tann their Hides themſelves, after their own manner. Here is good Oak enough, here is Hemp and Flax, good Water, and the Ground will bear any thing that groweth in <hi>England,</hi> and with leſs Pains and trouble; with my dear Love to thee I reſt thy Loving Husband</p>
+            <closer>
+               <signed>Robert Wade.</signed>
+               <dateline>
+                  <hi>Delarware</hi> River the place called <hi>Upland,</hi> 
+                  <date>the 2 d. of the 2 d. Month 1676.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:98033:6"/>
+            <opener>
+               <salute>Dear and Loving friend John Suniſon,</salute>
+            </opener>
+            <p>MY kind love unto thee and to thy Wife, hoping theſe lines may find thee in good health, as thanks be unto the Lord we are all ſafe through mercy arri<g ref="char:EOLhyphen"/>ved at <hi>New Caeſarea</hi> or <hi>New Jerſie:</hi> having an opportuni<g ref="char:EOLhyphen"/>ty I thought good to ſend a few lines unto thee; I ſent one to <hi>John Jones</hi> of <hi>Chipman</hi> Card-maker, &amp; if any are minded to come over, they may go thither and know what goods to bring over that are fit to ſell or uſe here: here is no want of any thing but good people to Inhabit; here is liberty for the honeſt hearted that truly deſire to fear the Lord; here is liberty from the cares and Bondage of this World, and after one year or two, you may live very well with very little labour; here is great ſtore of Fiſh and Fowl, and plenty of Corn, and Cows, Hoggs, Horſes, Oxen, Sheep, Veniſon, Nuts, Strawberries, Grapes; and Peaches here is good <hi>Engliſh</hi> Wheat ripe in three Months, Wheat is at 4 <hi>s.</hi> a buſhel, Barley at three, good White Rie at three, good <hi>Indian</hi> Corn at 2 <hi>s.</hi> 6 <hi>d.</hi> a buſhel; half a buſhel when it is planted will find a great Family a whole year with bread and drink, it is ſo great increaſe; but in <hi>Engliſh</hi> goods it will coſt but half ſo much; the Beef fat its ſelf, and Hogs fat themſelves, they are fat all the year, and People may kill them when they have occaſion; here is good Land enough, and wood enough, Servants are in great requeſt, young Men and Maids come to great fortune (as they call it,) and do very well, the friends Daughter or <hi>Bathford,</hi> is very well, and wiſheth her Father were here, he might live very well. I have ſent you nothing but the truth, here are many things
+<pb n="9" facs="tcp:98033:6"/>too tedious to relate, my mother remembers her to thee, <hi>&amp;c.</hi> &amp; ſhe would not have you be diſcouraged becauſe of the Water, for the Lord is as well able to preſerve by Sea as Land, we were near two Hundred People on board the Ship we came in, and there was an ancient Woman judged near fourſcore years of Age, and ſhe did very well, and ſeverall others that were very ancient; we loſt but two, and they were Brothers, So I reſt thy loving Friend till death,</p>
+            <closer>
+               <signed>Eſter Huckens.</signed>
+               <dateline>New Jerſie Delaware, <date>April the 4th. 1676.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="10" facs="tcp:98033:7"/>
+            <opener>
+               <salute>Dear and loving Wife;</salute>
+            </opener>
+            <p>THis may let thee underſtand that I am very well in health through the mercy and goodneſs of the Lord towards us, and I now having this oprortunity, I thought fit to let thee underſtand of our welfare. Now dear Wife I hope thou wilt make proviſion to come to this place againſt I come, which I hope will be in the Winter if I can have convenient paſſage. <hi>R. Guy</hi> hath bought a Plantation cloſe by me, ſo we ſhall be very near Neigh<g ref="char:EOLhyphen"/>bours, and the reſt of our acquaintance are near us, and I hope now thou art ſatisfied by <hi>John Meadock</hi> that I could not write to thee before, and as to any news of the Natives or others, here there is little, for all is at peace and quiet, and I do not hear but they are like ſo to continue; and <hi>Jo. F.</hi> is now about to lay out ſome Land for thoſe that have purcha<g ref="char:EOLhyphen"/>ſed of him, now he ſees he cannot bring us to ſubcribe to him, for his aim was altogether for
+<pb n="11" facs="tcp:98033:7"/>his own exaltation; and not the publick good, my love to all our Friends and Neighbours, with my dear Love to thee and your Family, I reſt thy loving Husband,</p>
+            <closer>
+               <signed>Robert Wade.</signed>
+               <date>The 17<hi>th.</hi> day of the 4<hi>th.</hi> Month 1676.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:98033:8"/>
+            <opener>
+               <salute>Dear and loving Wife,</salute>
+            </opener>
+            <p>MY dear love to thee and thy children; loving wife this may let thee under<g ref="char:EOLhyphen"/>ſtand that it was late before we came into this Country, but the Land was bought preſent<g ref="char:EOLhyphen"/>ly, the Natives were as willing to ſell as we were to Buy; and there is Land enough bought, and here is very good Marſh as well as up-land &amp; good Timber for Shipping, and it is a very free and plentiful Country for all proviſions, as Corn, and Cattle, Fiſh, and Fowle, <hi>&amp;c.</hi> But <hi>Jo. F.</hi> would not ſet us out our land, except thoſe that were concerned would ſet their hands to ſuch papers as he drew up, which would have been to enſnare us and all that come after us; I do not write this to diſ<g ref="char:EOLhyphen"/>courage any; dear Wife, I hope to ſee thee here before this may come at <hi>London,</hi> if not, I deſire thee to come as ſoon as thou canſt; I am with <hi>Robert Wade,</hi> who has bought a plantation, and I am to have part with him, which will come to a little above 26 <hi>l.</hi> and
+<pb n="13" facs="tcp:98033:8"/>here is a brave River Fiſhing and Fowling; the Whales run a ſhore here ſomtimes; and for Sturgeon, and all other fiſh here are abundance, we want Coopers to make Barrels Tubbs, <hi>&amp;c.</hi> if any be deſirous to come, here are plantations enough, and good <hi>Engliſh</hi> Wheat plenty; and here is Tobacco enough made on this River to fraight a Ship, ſo dear Wife; expecting thee the firſt opportunity to come away; with my dear Love, to thee and all friends and Neigh<g ref="char:EOLhyphen"/>bours, I reſt thy Loving Husband</p>
+            <closer>
+               <signed>Roger Pederick.</signed>
+               <dateline>From Delaware River <date>the 14<hi>th.</hi> day of the 14<hi>th.</hi> Month 1676.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
